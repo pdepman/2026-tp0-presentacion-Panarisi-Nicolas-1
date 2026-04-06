@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26494162/README.md)
+
 # Presentacion
 Repositorio de práctica con mi presentación personal en Markdown
 
